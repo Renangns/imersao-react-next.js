@@ -5,24 +5,54 @@
   "questions": [
     {
       "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-      "title": "Como fazer um seletor por id via CSS?",
+      "title": "Qual das alternativas NÃO representa uma das quatro características principais de uma Nota Musical?",
       "description": "Essa é pra aquecer",
-      "answer": 2,
+      "answer": 4,
       "alternatives": [
-        ".elemento",
-        "*elemento",
-        "#elemento",
-        "%elemento"
+        "Altura",
+        "Intensidade",
+        "Duração",
+        "Timbre",
+        "Função"
       ]
     },
     {
       "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-      "title": "Como fazer um background gradiente com css?",
-      "description": "Faz tempo em haha",
+      "title": "O que é um Semitom?",
+      "description": "",
       "answer": 0,
       "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
+         "A Menor distância possível entre duas notas.",
+         "A Maior distância possível entre duas notas.",
+         "A Distância que existe entre as notas Dó e Ré.",
+         "Quando não há distância entre as notas, ou seja, há um uníssono.",
+         "Quando uma nota natural é alterada."
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
+      "title": "Qual a função do sinal de Sustenido (#) ?",
+      "description": "",
+      "answer": 2,
+      "alternatives": [
+         "Aumenta um Tom à nota",
+         "Diminui um Tom à nota",
+         "Aumenta um Semitom à nota",
+         "Diminui um Semitom à nota",
+         "Nenhuma das alternativas anteriores"
+      ]
+    },    
+    {
+      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+      "title": "Qual das sequências de notas seguintes forma uma escala Maior do sistema tonal?",
+      "description": "",
+      "answer": 0,
+      "alternatives": [
+         "Ré - Mi - Fá# - Sol - La - Si - Dó# - Ré",
+         "La - Si - Dó - Ré - Mi - Fá - Sol - La",
+         "Mi - Ré - La - Sol - Dó - Si - Fá - Mi",
+         "Dó - Dó# - Ré - Ré# - Mi - Fá - Fá# - Sol",
+         "Ré - Mi - Fá - Sol - La - Si - Dó# - Ré"
       ]
     }
   ],
